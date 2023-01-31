@@ -1,0 +1,11 @@
+.product_price {
+    font-size: 38px;
+}
+
+
+.old_price {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: line-through;
+    color: black;
+}
